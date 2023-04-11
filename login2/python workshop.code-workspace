@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../python workshop"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "login2"
+	}
+}
